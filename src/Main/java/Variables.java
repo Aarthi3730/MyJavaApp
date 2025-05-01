@@ -1,3 +1,5 @@
+package Main.java;
+
 class Main{
     public static void main(String[] args){
         int age =20;
