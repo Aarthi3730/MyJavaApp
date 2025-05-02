@@ -10,5 +10,6 @@ class Srings{
         System.out.println(message.indexOf("H"));
         System.out.println(message.toLowerCase());
         System.out.println(message.toUpperCase());
+        System.out.println(message);
     }
 }
