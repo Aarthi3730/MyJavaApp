@@ -1,3 +1,5 @@
+package Main.java;
+
 class VotingEligibility {
     public static void main(String[] args) {
         int age = 17;

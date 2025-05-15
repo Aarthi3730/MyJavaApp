@@ -1,3 +1,5 @@
+package Main.java;
+
 import java.util.Scanner;
 class NumberCheck {
     public static void main(String[] args) {
