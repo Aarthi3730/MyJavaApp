@@ -8,8 +8,8 @@ class EvenOdd {
         System.out.print("Enter a number: ");
         int num = sc.nextInt();
         if (num % 2 == 0)
-            System.out.println(num + " is Even");
+            System.out.println(num + " is even");
         else
-            System.out.println(num + " is Odd");
+            System.out.println(num + " is odd");
     }
 }
