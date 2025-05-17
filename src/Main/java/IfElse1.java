@@ -8,10 +8,10 @@ class voteEligibility{
         System.out.println("Enter your age:");
         int age=sc.nextInt();
         if(age>=18){
-            System.out.println("You can vote");
+            System.out.println("You have eligibility to vote");
         }
         else{
-            System.out.println("You can't vote");
+            System.out.println("You dont have eligibility to vote");
         }
     }
 }
