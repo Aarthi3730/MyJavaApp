@@ -17,6 +17,6 @@
         for (int num : numbers) {
             sum += num;
         }
-        System.out.println("Sum of the elements : " + sum);
+        System.out.println("Sum of the elements of Array: " + sum);
     }
 }
