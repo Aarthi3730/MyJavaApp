@@ -2,8 +2,8 @@ class MatrixSum {
     public static void main(String[] args) {
         // Define two 2x2 matrices
         int[][] matrix1 = {
-                {1, 2},
-                {3, 4}
+                {29, 10},
+                {8, 7}
         };
 
         int[][] matrix2 = {
