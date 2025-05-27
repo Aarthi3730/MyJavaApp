@@ -22,5 +22,6 @@ public class ArithmeticOperators {
         // Modulus
         int remainder = a % b;
         System.out.println("Modulus (a % b) = " + remainder);
+        System.out.println("End");
     }
 }
