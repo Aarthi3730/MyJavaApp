@@ -21,8 +21,8 @@ class MatrixSum {
             }
         }
 
-        // Print the result
-        System.out.println("Sum of the matrices=");
+        // Print the result=
+        System.out.println("Sum= ");
         for (int i = 0; i < 2; i++) {
             for (int j = 0; j < 2; j++) {
                 System.out.print(sum[i][j] + " ");
