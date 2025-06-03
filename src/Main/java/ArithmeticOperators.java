@@ -13,7 +13,7 @@ public class ArithmeticOperators {
 
         // Multiplication
         int product = a * b;
-        System.out.println("Multiplication (a * b) = " + product);
+        System.out.println("Multiplication (a * b )= " + product);
 
         // Division
         int quotient = a / b;
